@@ -37,7 +37,8 @@ sudo apt install g++ libncurses5-dev libncursesw5-dev**
 <br>cmd : **./monitor**
 
 ### Overview :
-![sys-monitor](image/image.png)
+![sys-monitor](images/image.png)
+
 
 
 
