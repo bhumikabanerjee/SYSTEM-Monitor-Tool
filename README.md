@@ -26,18 +26,18 @@ The application supports user interaction:
 **g++** (Compiler) and **ncurses** (UI lib)
     <br>cmd : **sudo apt update
 sudo apt install g++ libncurses5-dev libncursesw5-dev**
-<br>
 
-2. Navigate to the project folder using **cd** cmd 
+3. Navigate to the project folder using **cd** cmd 
 
-3. Compile the program:
+4. Compile the program:
     <br>cmd : **g++ SYS-monitor.cpp -lncurses -o monitor**
 
-4. Run the program:
+5. Run the program:
 <br>cmd : **./monitor**
 
 ### Overview :
 ![sys-monitor](images/image.png)
+
 
 
 
